@@ -1,1 +1,0 @@
-# Accident-detection-System-from-CCTV-Footage
